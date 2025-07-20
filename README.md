@@ -20,6 +20,33 @@
 🏆 Led multiple hackathon-winning teams and tech events
 
 ---
+---
+
+## 💼 Projects
+
+### 🔹 AutoFlow Agent (LLM + Automation)
+An autonomous AI-powered web agent that automates repetitive browser tasks like bookings, logins, and data scraping using LangChain, Puppeteer, and Pinecone.  
+- Saved users 3–5 hours/week  
+- Integrated memory retention and web automation
+
+### 🔹 NeuroNudge – AI Learning Optimizer
+A personalized study path generator using AI-based assessments and productivity insights to enhance learning efficiency.
+
+### 🔹 DevConnect – Real-Time Dev Network
+A full-stack developer platform using Next.js, Node, MongoDB, Firebase, and Socket.io to chat, post, and collaborate on open-source.  
+- Onboarded 1000+ users in 3 weeks  
+- 300+ daily actives from 4 universities
+
+### 🔹 Secure File Management System
+A Python-based file manager with Tkinter GUI and Fernet encryption for secure file storage and access.
+
+### 🔹 Trackwise – Train Scheduler & Forecaster
+A dynamic train management web app using real-time scheduling logic and predictive features for smoother travel planning.
+
+### 🔹 Visionary Travelers – Travel Companion Website
+An aesthetic and responsive travel planner website with tailored itineraries, UI transitions, and intuitive user experience.
+
+---
 
 ## 🛠 Tech Stack
 
