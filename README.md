@@ -65,7 +65,6 @@ An aesthetic and responsive travel planner website with tailored itineraries, UI
 
 ### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
