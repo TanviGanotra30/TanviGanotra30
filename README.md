@@ -54,18 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanviGanotra30&show_icons=true&theme=radical" alt="tanvi-stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviGanotra30&theme=radical" alt="tanvi-streak" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanvi-ganotra)
