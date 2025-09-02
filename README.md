@@ -61,6 +61,7 @@ An aesthetic and responsive travel planner website with tailored itineraries, UI
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 
 ### 🛠 Backend
