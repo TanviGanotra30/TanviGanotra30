@@ -12,10 +12,6 @@
 
 🎓 I'm a B.Tech Computer Science student at **Lovely Professional University**, passionate about blending intelligent systems with beautiful user experiences.
 
-💡 Currently building:
-- **AutoFlow Agent** (LLM + Automation) — Autonomous web task executor using LangChain, Puppeteer, and Pinecone
-- **NeuroNudge** — AI-powered learning optimizer for students it is a personalized study companion 
-
 📈 Ranked in the top 10% of my university for academic performance  
 🏆 Led multiple hackathon-winning teams and tech events
 
