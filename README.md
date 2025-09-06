@@ -16,7 +16,6 @@
 🏆 Led multiple hackathon-winning teams and tech events
 
 ---
----
 
 ## 💼 Projects
 
