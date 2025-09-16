@@ -19,10 +19,8 @@
 
 ## 💼 Projects
 
-### 🔹 AutoFlow Agent (LLM + Automation)
-An autonomous AI-powered web agent that automates repetitive browser tasks like bookings, logins, and data scraping using LangChain, Puppeteer, and Pinecone.  
-- Saved users 3–5 hours/week  
-- Integrated memory retention and web automation
+### 🔹 Trackwise – Train Scheduler & Forecaster
+Trackwise is a dynamic, web-based train management application designed to revolutionize travel planning through real-time scheduling and predictive forecasting features. It leverages intelligent algorithms to track live train data, optimize scheduling, and forecast potential delays or schedule changes in advance — enabling passengers to plan their journeys more efficiently and reliably.
 
 ### 🔹 NeuroNudge – AI Learning Optimizer
 A personalized study path generator using AI-based assessments and productivity insights to enhance learning efficiency.
@@ -34,9 +32,6 @@ A full-stack developer platform using Next.js, Node, MongoDB, Firebase, and Sock
 
 ### 🔹 Secure File Management System
 A Python-based file manager with Tkinter GUI and Fernet encryption for secure file storage and access.
-
-### 🔹 Trackwise – Train Scheduler & Forecaster
-A dynamic train management web app using real-time scheduling logic and predictive features for smoother travel planning.
 
 ### 🔹 Visionary Travelers – Travel Companion Website
 An aesthetic and responsive travel planner website with tailored itineraries, UI transitions, and intuitive user experience.
