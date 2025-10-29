@@ -13,22 +13,20 @@
 🎓 I'm a B.Tech Computer Science student at **Lovely Professional University**, passionate about blending intelligent systems with beautiful user experiences.
 
 📈 Ranked in the top 10% of my university for academic performance  
-🏆 Led multiple hackathon-winning teams and tech events
+🏆 Led multiple hackathon teams and tech events
 
 ---
 
 ## 💼 Projects
+
+### 🔹 DevConnect – Real-Time Dev Network
+A professional networking and community platform designed exclusively for developers. It serves as a central hub where coders can connect, collaborate on projects, share knowledge, and discover new opportunities  
 
 ### 🔹 Trackwise – Train Scheduler & Forecaster
 Trackwise is a dynamic, web-based train management application designed to revolutionize travel planning through real-time scheduling and predictive forecasting features. It leverages intelligent algorithms to track live train data, optimize scheduling, and forecast potential delays or schedule changes in advance — enabling passengers to plan their journeys more efficiently and reliably.
 
 ### 🔹 NeuroNudge – AI Learning Optimizer
 A personalized study path generator using AI-based assessments and productivity insights to enhance learning efficiency.
-
-### 🔹 DevConnect – Real-Time Dev Network
-A full-stack developer platform using Next.js, Node, MongoDB, Firebase, and Socket.io to chat, post, and collaborate on open-source.  
-- Onboarded 1000+ users in 3 weeks  
-- 300+ daily actives from 4 universities
 
 ### 🔹 Secure File Management System
 A Python-based file manager with Tkinter GUI and Fernet encryption for secure file storage and access.
