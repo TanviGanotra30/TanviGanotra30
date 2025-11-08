@@ -10,7 +10,7 @@
 
 🎓 I'm a B.Tech Computer Science student at **Lovely Professional University**, passionate about blending intelligent systems with beautiful user experiences.
 - 3rd‑year B.Tech CSE student
-- Full Stack Web Developer (React,Tailwind,BootStrap,Node.js,PHP)
+- Web Developer (React,Tailwind,BootStrap,Node.js,PHP)
 - Enthusiastic about AI, Automations, Agents, DSA, System Design, and OS
 - Leadership experience in hackathons and cultural events
 - Strong problem‑solving skills in Java and C++
