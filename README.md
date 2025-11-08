@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic Full Stack Developer | AI Explorer </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="260" alt="Female coding gif">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" alt="Girl coding gif">
 </p>
 
 ---
