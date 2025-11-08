@@ -2,7 +2,14 @@
 <h3 align="center">An enthusiastic Full Stack Developer | AI Explorer </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" alt="Girl coding gif">
+<img src="https://media.giphy.com/media/3o6wrvdHFbwBrUFenu/giphy.gif" width="260" alt="Girl coding gif">
+</p>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2300C4CC.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-%235555FF.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech%20Enthusiast-%23FF7A59.svg?style=for-the-badge" />
 </p>
 
 ---
