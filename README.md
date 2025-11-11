@@ -40,7 +40,7 @@ A platform enabling developers to connect, collaborate, and share opportunities.
 A smart web application that predicts train delays and provides real‑time updates. Includes:
 - Live train status
 - Forecasting algorithms
-- 24‑hour prior ticket confirmation alert (in progress)
+- 24‑hour prior ticket confirmation alert
 
 ---
 
