@@ -13,7 +13,7 @@
 - Web Developer (React,Tailwind,BootStrap,Node.js,PHP)
 - Enthusiastic about AI, Automations, Agents, DSA, System Design, and OS
 - Leadership experience in hackathons and cultural events
-- Strong problem‑solving skills in Java and C++
+- Strong problem‑solving skills in Java
 - Interested in building production‑ready, end‑to‑end applications
 
 ---
