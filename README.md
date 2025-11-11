@@ -19,7 +19,7 @@
 ---
 
 ## 💼 Projects
-## 1. **ResQNet – Emergency Rescue & Smart Alert System Website**
+## 1. **ResQNet – Emergency Rescue & Smart Alert Platform*
 An intelligent emergency‑response website built for rapid crisis reporting, verification, and automated dispatch. 
 - Real‑time reporting interface 
 - Smart backend workflow for incident categorization
@@ -36,7 +36,7 @@ A platform enabling developers to connect, collaborate, and share opportunities.
 
 ---
 
-## 3. **TrackWise – Train Scheduling & Forecasting App**
+## 3. **TrackWise – Train Scheduling & Forecasting Platform**
 A smart web application that predicts train delays and provides real‑time updates. Includes:
 - Live train status
 - Forecasting algorithms
