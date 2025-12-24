@@ -19,7 +19,7 @@
 ---
 
 ## 💼 Projects
-## 1. **ResQNet – Emergency Rescue & Smart Alert Platform*
+## 1. ResQNet – Emergency Rescue & Smart Alert Platform*
 An intelligent emergency‑response website built for rapid crisis reporting, verification, and automated dispatch. 
 - Real‑time reporting interface 
 - Smart backend workflow for incident categorization
