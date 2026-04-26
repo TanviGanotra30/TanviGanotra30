@@ -92,12 +92,6 @@ _“Code with purpose, design with empathy.”_ -->
 
 <!-- HERO ILLUSTRATION (paste this SVG into an image host like svgur.com or use the raw SVG below) -->
 
-```
-    ╭─────────────────────────────╮
-    │  👩‍💻  Tanvi Ganotra          │
-    ╰─────────────────────────────╯
-```
-
 # *Hi, I'm Tanvi Ganotra* 🌸
 
 **`Full Stack Developer · AI Explorer · Problem Solver`**
