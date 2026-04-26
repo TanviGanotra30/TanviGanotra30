@@ -247,7 +247,5 @@ _“Code with purpose, design with empathy.”_ -->
 
 *"Code with purpose, design with empathy."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanviGanotra30&color=c084a0&style=flat-square&label=Profile+Views)
-
 </div>
 
