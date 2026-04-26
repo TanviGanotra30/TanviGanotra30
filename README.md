@@ -153,7 +153,7 @@ _“Code with purpose, design with empathy.”_ -->
 ---
 
 <details>
-<summary><b>🛍️ Unimart — University Buy & Sell Community Platform</b></summary>
+<summary><b>🛍️ Unimart — Real time tracking & grocery shopping Platform</b></summary>
 
 > A trusted peer-to-peer marketplace built exclusively for university students — buy, sell, and exchange items within your campus community. Safe, simple, and made for students.
 
